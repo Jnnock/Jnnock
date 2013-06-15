@@ -1,0 +1,17 @@
+body{
+	@font-face {
+	 font-family:"Broadway";
+	 src:url("BROADW.TTF");
+	} 	
+}
+.panel{
+	background-image: url(menu.png);
+	background-color: transparent;
+	width: 31px;
+	height: 31px;
+	margin: 0;
+	-webkit-background-size: 131px 31px;
+	-moz-background-size: 131px 31px;
+	-o-background-size: 131px 31px;
+	background-size: 131px 31px;
+}
